@@ -1,0 +1,58 @@
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.exe.config
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.exe
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.pdb
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\PacketDotNet.dll
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\SharpPcap.dll
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\WindowsInput.dll
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\SharpPcap.pdb
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\SharpPcap.xml
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\PacketDotNet.xml
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\WindowsInput.xml
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.csprojResolveAssemblyReference.cache
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\MainWindow.g.cs
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\MainWindowControl.g.cs
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\View\CaptureInfo.g.cs
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\App.g.cs
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold_MarkupCompile.cache
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold_MarkupCompile.lref
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\MainWindow.baml
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\MainWindowControl.baml
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\View\CaptureInfo.baml
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.g.resources
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu_Note_Auto_Get_Gold.Properties.Resources.resources
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.csproj.GenerateResource.Cache
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.exe
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.pdb
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.exe.manifest
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.exe.manifest
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.application
+E:\CS\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.application
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.csprojResolveAssemblyReference.cache
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\MainWindow.g.cs
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\MainWindowControl.g.cs
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\App.g.cs
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold_MarkupCompile.cache
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold_MarkupCompile.lref
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\MainWindow.baml
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\MainWindowControl.baml
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.g.resources
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu_Note_Auto_Get_Gold.Properties.Resources.resources
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.csproj.GenerateResource.Cache
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.exe
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.pdb
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.exe.config
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.exe.manifest
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.application
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.exe
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\Gurimu Note Auto Get Gold.pdb
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\PacketDotNet.dll
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\SharpPcap.dll
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\WindowsInput.dll
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\SharpPcap.pdb
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\SharpPcap.xml
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\PacketDotNet.xml
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\bin\Release\WindowsInput.xml
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.exe.manifest
+E:\Dropbox\programming\C#\gu\Gurimu Note Auto Get Gold\Gurimu Note Auto Get Gold\obj\Release\Gurimu Note Auto Get Gold.application

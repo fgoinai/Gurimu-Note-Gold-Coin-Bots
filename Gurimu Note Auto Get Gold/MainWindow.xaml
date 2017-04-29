@@ -1,0 +1,21 @@
+﻿<Window x:Class="Gurimu_Note_Auto_Get_Gold.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gurimu_Note_Auto_Get_Gold"
+        mc:Ignorable="d"
+        Title="GrimmsNote Auto Earn Coins" Height="240" Width="220">
+    <Grid>
+        <local:MainWindowControl x:Name="_control" />
+        <Button x:Name="capBtn" Content="Start" HorizontalAlignment="Left" Margin="125,31,0,0" VerticalAlignment="Top" Width="75" Click="startCapture"/>
+        <TextBox x:Name="message_box" HorizontalAlignment="Left" Height="53" Margin="0,157,-0.4,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" IsUndoEnabled="False"/>
+        <TextBlock x:Name="LanCardList" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="LanCard List" VerticalAlignment="Top"/>
+        <ListView x:Name="listView" HorizontalAlignment="Left" Height="121" Margin="10,31,0,0" VerticalAlignment="Top" Width="110">
+
+        </ListView>
+        <Button x:Name="stopBtn" Content="Stop" HorizontalAlignment="Left" Margin="125,80,0,0" VerticalAlignment="Top" Width="75" Click="stopCapture"/>
+        <Button x:Name="posBtn" Content="Debug" HorizontalAlignment="Left" Margin="125,133,0,0" VerticalAlignment="Top" Width="75" Click="posBtn_Click"/>
+
+    </Grid>
+</Window>
